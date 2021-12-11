@@ -1,4 +1,4 @@
-## Oie👋👋, eu sou Elias Silva, e bem vindo(a) ao meu GitHub!
+# Oie👋👋, eu sou Elias Silva, e bem vindo(a) ao meu GitHub!
 - Me especializando em Reactjs
 
 <hr>
