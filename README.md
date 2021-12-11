@@ -7,8 +7,8 @@
 
 <hr>
 
--Me especializando em React.js
+- Me especializando em Reactjs
 
--Contate-me no email: eliasjunior292001@gmail.com
+- Contate-me no email: eliasjunior292001@gmail.com
 
--linkedin : https://www.linkedin.com/in/elias--silva/
+- linkedin : https://www.linkedin.com/in/elias--silva/
