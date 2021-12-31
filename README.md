@@ -13,7 +13,6 @@
 
 - Buscando meu primeiro emprego dentro da area de programação
 
-##
 
 <div align="center">
   <a href="https://github.com/Elias2031">
