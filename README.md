@@ -8,7 +8,7 @@ Sou um desenvolvedor apaixonado por criar soluções que otimizam e automatizam 
 
 ### 📚 Sobre Mim
 
-- 🎓 **Formação**: Graduado em Análise e Desenvolvimento de Sistemas pela Centro Universitário de Brasília (CEUB).
+- 🎓 **Formação**: Graduando em Análise e Desenvolvimento de Sistemas pela Centro Universitário de Brasília (CEUB).
 - 💼 **Experiência**: 2 anos atuando como Desenvolvedor Especialista em Automação de Processos.
 - 🎯 **Objetivo**: Apaixonado por otimizar processos empresariais através de soluções inovadoras em automação, integrando inteligência artificial e análise de dados para melhorar a eficiência operacional.
 
