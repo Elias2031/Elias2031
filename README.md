@@ -43,11 +43,11 @@ Aplicativo de análise de performance no boxe — combinando dados, IA e estrat�
 
 ## 📊 GitHub Stats & Badges
 
-![Elias GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias2031&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias2031&layout=compact&theme=default)
+![Elias GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias2031&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias2031&layout=compact&theme=tokyonight)
 
-[![GitHub Followers](https://img.shields.io/github/followers/Elias2031?label=Seguidores&style=social)](https://github.com/Elias2031)
-[![GitHub Stars](https://img.shields.io/github/stars/Elias2031?label=Stars&style=social)](https://github.com/Elias2031)
+[![GitHub Followers](https://img.shields.io/github/followers/Elias2031?label=Seguidores&style=for-the-badge&logo=github&color=0D1117&labelColor=1F6FEB)](https://github.com/Elias2031)
+[![GitHub Stars](https://img.shields.io/github/stars/Elias2031?label=Stars&style=for-the-badge&logo=github&color=0D1117&labelColor=1F6FEB)](https://github.com/Elias2031)
 
 ---
 
